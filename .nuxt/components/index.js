@@ -1,4 +1,5 @@
-export { default as AppNav } from '../..\\components\\AppNav.vue'
+export { default as AppFooter } from '../..\\components\\AppFooter.vue'
+export { default as AppHeader } from '../..\\components\\AppHeader.vue'
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {

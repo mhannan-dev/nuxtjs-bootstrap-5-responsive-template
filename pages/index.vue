@@ -1,10 +1,7 @@
 <template>
-  <section>
-    <div>
-      <h1 class="title">Nuxt JS Front End</h1>
-      </div>
-    </div>
-  </section>
+  <div class="container">
+    <h1>Hello</h1>
+  </div>
 </template>
 <script>
 

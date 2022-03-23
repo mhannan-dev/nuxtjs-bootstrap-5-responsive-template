@@ -1,5 +1,8 @@
 {
-  "AppNav": {
-    "description": "Auto imported from components/AppNav.vue"
+  "AppFooter": {
+    "description": "Auto imported from components/AppFooter.vue"
+  },
+  "AppHeader": {
+    "description": "Auto imported from components/AppHeader.vue"
   }
 }
