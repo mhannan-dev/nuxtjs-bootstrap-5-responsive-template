@@ -1,0 +1,23 @@
+[
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "D:\\\\laragon\\\\www\\\\nuxt_src\\\\bs5-web\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_3008e75f"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "D:\\\\laragon\\\\www\\\\nuxt_src\\\\bs5-web\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_cb13fdc6"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\laragon\\\\www\\\\nuxt_src\\\\bs5-web\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_66614448"
+  }
+]
