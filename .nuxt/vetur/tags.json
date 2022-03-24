@@ -1,8 +1,11 @@
 {
-  "AppFooter": {
-    "description": "Auto imported from components/AppFooter.vue"
+  "IncAppFooter": {
+    "description": "Auto imported from components/inc/AppFooter.vue"
   },
-  "AppHeader": {
-    "description": "Auto imported from components/AppHeader.vue"
+  "IncAppHeader": {
+    "description": "Auto imported from components/inc/AppHeader.vue"
+  },
+  "IncAppSlider": {
+    "description": "Auto imported from components/inc/AppSlider.vue"
   }
 }

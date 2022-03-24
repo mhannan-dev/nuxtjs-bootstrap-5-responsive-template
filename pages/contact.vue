@@ -1,17 +1,13 @@
 <template>
   <div>
-    <app-slider />
-
-    <h1>Home page</h1>
+    <h1>Contact page</h1>
   </div>
 </template>
 
 <script>
-import AppSlider from "../components/inc/AppSlider.vue";
 export default {
-  components: { AppSlider },
   head: {
-    title: 'Home page',
+    title: 'Contact page',
     meta: [
       {
         hid: 'Home description',

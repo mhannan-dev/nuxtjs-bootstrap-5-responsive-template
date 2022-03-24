@@ -1,23 +1,30 @@
 [
   {
-    "name": "login",
-    "path": "/login",
-    "component": "D:\\\\laragon\\\\www\\\\nuxt_src\\\\bs5-web\\\\pages\\\\login.vue",
-    "chunkName": "pages/login",
-    "_name": "_3008e75f"
+    "name": "about",
+    "path": "/about",
+    "component": "D:\\\\laragon\\\\www\\\\nuxt_src\\\\web\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_a61787e8"
   },
   {
-    "name": "register",
-    "path": "/register",
-    "component": "D:\\\\laragon\\\\www\\\\nuxt_src\\\\bs5-web\\\\pages\\\\register.vue",
-    "chunkName": "pages/register",
-    "_name": "_cb13fdc6"
+    "name": "contact",
+    "path": "/contact",
+    "component": "D:\\\\laragon\\\\www\\\\nuxt_src\\\\web\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_43523d5f"
+  },
+  {
+    "name": "service",
+    "path": "/service",
+    "component": "D:\\\\laragon\\\\www\\\\nuxt_src\\\\web\\\\pages\\\\service.vue",
+    "chunkName": "pages/service",
+    "_name": "_641ce518"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "D:\\\\laragon\\\\www\\\\nuxt_src\\\\bs5-web\\\\pages\\\\index.vue",
+    "component": "D:\\\\laragon\\\\www\\\\nuxt_src\\\\web\\\\pages\\\\index.vue",
     "chunkName": "pages/index",
-    "_name": "_66614448"
+    "_name": "_66a7d25e"
   }
 ]

@@ -1,5 +1,6 @@
-export { default as AppFooter } from '../..\\components\\AppFooter.vue'
-export { default as AppHeader } from '../..\\components\\AppHeader.vue'
+export { default as IncAppFooter } from '../..\\components\\inc\\AppFooter.vue'
+export { default as IncAppHeader } from '../..\\components\\inc\\AppHeader.vue'
+export { default as IncAppSlider } from '../..\\components\\inc\\AppSlider.vue'
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {
