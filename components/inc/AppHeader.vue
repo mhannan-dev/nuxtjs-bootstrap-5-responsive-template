@@ -3,8 +3,7 @@
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container">
       <a class="navbar-brand" to="/">
-        <!-- <img src="/assets/img/nuxtjs.png" alt="Logo" /> -->
-        Nuxt JS
+        <img class="logo" src="/nuxtjs.png" alt="Logo" />
       </a>
       <button
         class="navbar-toggler"
@@ -38,6 +37,12 @@
     </div>
   </nav>
 </template>
+<style>
+img.logo {
+  height: auto;
+  width: 150px;
+}
+</style>
 <script>
 export default {
   name: "AppHeader",

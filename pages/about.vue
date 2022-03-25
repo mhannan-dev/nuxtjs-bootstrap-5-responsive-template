@@ -1,27 +1,30 @@
 <template>
   <div>
-    <h1>About page</h1>
+    <div class="py-4 bg-green">
+      <div class="container text-center">
+        <h3 class="text-white">Abous us</h3>
+      </div>
+    </div>
   </div>
 </template>
 
 <script>
 export default {
   head: {
-    title: 'About page',
+    title: "About us",
     meta: [
       {
-        hid: 'About description',
-        name: 'About description',
-        content: 'my website description'
+        hid: "About us description",
+        name: "bout us description",
+        content: "my website description",
       },
       {
-        hid: 'About keyword',
-        name: 'About keyword name',
-        content: 'my website keyword description'
-      }
+        hid: "bout us keyword",
+        name: "bout us keyword name",
+        content: "my website keyword description",
+      },
     ],
-
-  }
+  },
 };
 </script>
 <style lang="css"></style>

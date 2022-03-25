@@ -1,4 +1,7 @@
 {
+  "IncAboutPage": {
+    "description": "Auto imported from components/inc/AboutPage.vue"
+  },
   "IncAppFooter": {
     "description": "Auto imported from components/inc/AppFooter.vue"
   },
@@ -7,5 +10,8 @@
   },
   "IncAppSlider": {
     "description": "Auto imported from components/inc/AppSlider.vue"
+  },
+  "IncServicePage": {
+    "description": "Auto imported from components/inc/ServicePage.vue"
   }
 }

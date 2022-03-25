@@ -3,8 +3,138 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: "Kanit" san-serif;
+  font-family: "Kanit"san-serif;
 }
+
 body {
   font-family: "Poppins", sans-serif;
+}
+
+p {
+  font-size: 14px;
+}
+
+.bg-green {
+  background-color: #189318;
+}
+
+/* About section */
+h1.main-heading {
+  font-size: 30px;
+  font-weight: 800;
+  margin-bottom: 14px;
+}
+
+.main-heading-underline {
+  background: #33a346;
+  width: 130px;
+  height: 4px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+p.section-p {
+  margin-bottom: 50px;
+}
+
+img.about-photo {
+  width: 100%;
+  height: auto;
+}
+
+p.about-text {
+  line-height: 2.3;
+  padding-left: 30px;
+}
+
+/* Service Section */
+
+.margin-bottom {
+  margin-bottom: 20px;
+}
+
+
+h3.box-card-heading {
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.box-card-heading-underline {
+  background-color: #33a346;
+  height: 2.5px;
+  width: 200px;
+  margin-bottom: 10px;
+}
+
+.card-text{
+  margin-bottom: 0;
+  line-height: 2;
+}
+
+
+.card {
+  transition: all 0.5s ease;
+  cursor: pointer;
+}
+
+.card:hover {
+  border: 1px solid #33a346;
+  border-radius: 5px;
+  box-shadow: 5px 6px 6px 2px #e9ecef;
+  transform: scale(1.2);
+}
+
+/* Contact button */
+.my_button {
+  width: 150px;
+  height: 50px;
+  border: 2px solid #33a346;
+  font-size: 18px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  z-index: 0;
+  transition: 2s;
+  
+}
+
+a.my_button {
+  color: #33a346;
+  text-decoration: none;
+  letter-spacing: 2px;
+}
+
+.my_button::before,
+.my_button::after {
+  position: absolute;
+  background: #eee;
+  z-index: -1;
+  transition: 1s;
+  content: ''
+}
+
+.my_button::before {
+  height: 50px;
+  width: 130px
+}
+
+.my_button::after {
+  width: 150px;
+  height: 30px
+}
+
+.my_button:hover::before {
+  width: 0px;
+  background: #fff
+}
+
+.my_button:hover::after {
+  height: 0px;
+  background: #fff
+}
+
+.my_button:hover {
+  background: #fff
 }

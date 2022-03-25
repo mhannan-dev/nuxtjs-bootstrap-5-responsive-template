@@ -3,28 +3,24 @@
     "name": "about",
     "path": "/about",
     "component": "D:\\\\laragon\\\\www\\\\nuxt_src\\\\web\\\\pages\\\\about.vue",
-    "chunkName": "pages/about",
-    "_name": "_a61787e8"
+    "chunkName": "pages/about"
   },
   {
     "name": "contact",
     "path": "/contact",
     "component": "D:\\\\laragon\\\\www\\\\nuxt_src\\\\web\\\\pages\\\\contact.vue",
-    "chunkName": "pages/contact",
-    "_name": "_43523d5f"
+    "chunkName": "pages/contact"
   },
   {
     "name": "service",
     "path": "/service",
     "component": "D:\\\\laragon\\\\www\\\\nuxt_src\\\\web\\\\pages\\\\service.vue",
-    "chunkName": "pages/service",
-    "_name": "_641ce518"
+    "chunkName": "pages/service"
   },
   {
     "name": "index",
     "path": "/",
     "component": "D:\\\\laragon\\\\www\\\\nuxt_src\\\\web\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_66a7d25e"
+    "chunkName": "pages/index"
   }
 ]
